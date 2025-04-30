@@ -12,13 +12,13 @@
 4. Enable the **Developer mode** in Claude.
 <br />
 5. Once Developer mode is enabled. You will see `Developer` option in the menu.
-   ![developer_option](developer_option.png)
+   ![developer_option](https://github.com/huzaifa621/mongodb-mcp/blob/main/resources/developer_option.png?raw=true)
 <br />
 6. Open `Settings`
-    ![Settings](settings_option.png)
+    ![Settings](https://github.com/huzaifa621/mongodb-mcp/blob/main/resources/settings_option.png?raw=true)
 <br />
 7. Click on `Developer` and click on `Edit Config`
-   ![edit_config](edit_config.png)
+   ![edit_config](https://github.com/huzaifa621/mongodb-mcp/blob/main/resources/edit_config.png?raw=true)
 <br />
 8. `claude_desktop_config.json` will open. Add the following object inside the `mcpServers` object.
    ```text
@@ -27,6 +27,8 @@
             "args": [<Paste index.js file path here>]
          }
    ```
-   ![MongoDB_server](MongoDB_server.png)
+   ![MongoDB_server](https://github.com/huzaifa621/mongodb-mcp/blob/main/resources/MongoDB_server.png?raw=true)
 
 **Note:** In the images, you must be seeing `LeaveManager` and `LeaveManager` key. It is another MCP server which I created. Do not get worry if you don't see it in your system.
+
+Enjoy!
