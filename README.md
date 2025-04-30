@@ -30,7 +30,7 @@
    ![MongoDB_server](https://github.com/huzaifa621/mongodb-mcp/blob/main/resources/MongoDB_server.png?raw=true)
 
 9. Restart your Claude desktop and you will be able to see the tools.
-   ![tools](resources\tools.png)
+   ![tools](https://raw.githubusercontent.com/huzaifa621/mongodb-mcp/refs/heads/main/resources/tools.png)
 
 **Note:** In the images, you must be seeing `LeaveManager` and `LeaveManager` key. It is another MCP server which I created. Do not get worry if you don't see it in your system.
 
